@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Manu%20Joseph&fontSize=90)
 # 💫 About Me:
 Manu Joseph is self-made data scientist with 10+ years of cross-functional experience spanning across Analytics, Software Engineering, and Supply Chain consulting. Currently he heads Applied Research at Thoucentric where he brings cutting edge AI technology from research to various applications in the industry. He has extensive experience working with many Fortune 500 companies is enabling digital and AI transformations in their processes, specifically in Machine Learning based Demand Forecasting. He is also an active open-source contributor and developed and maintains an open-source library - PyTorch Tabular - which makes deep learning for tabular data easy and accessible. He is also a contributor to NLTK where he enhanced the Language Model section of the library introducing many statistical language models. His primary research interests are time series, deep learning, and natural language processing. He is a blogger, writing in his own technical blog, and a speaker, at various AI/ML conferences.
 
