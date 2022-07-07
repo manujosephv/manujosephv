@@ -52,7 +52,7 @@ Manu Joseph is self-made data scientist with 10+ years of cross-functional exper
 </p>
 <p align="center">
 <a href="https://github.com/manujosephv">
-  <img height="290em" src="https://github-profile-trophy.vercel.app/?username=manujosephv&theme=nord&no-frame=true&no-bg=true&margin-w=4row=2&column=3&title=Stars,Commits,Followers,Repositories,MultiLanguage,Issues" />
+  <img height="290em" src="https://github-profile-trophy.vercel.app/?username=manujosephv&theme=nord&no-frame=true&no-bg=false&margin-w=4row=2&column=3&title=Stars,Commits,Followers,Repositories,MultiLanguage,Issues" />
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manujosephv&layout=compact&exclude_lang=java+r&theme=vue-dark" /> -->
 </a>
 </p>
