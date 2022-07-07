@@ -35,7 +35,7 @@ Manu Joseph is self-made data scientist with 10+ years of cross-functional exper
 
 <p align="center">
 <a href="https://arxiv.org/ftp/arxiv/papers/2104/2104.13638.pdf">
-  <img height="30em" src="https://img.shields.io/badge/arxiv(2021)-PyTorch%20Tabular:%20A%20Framework%20for%20Deep%20Learning%20with%20Tabular%20Data-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a" />
+  <img height="30em" src="https://img.shields.io/badge/arxiv(2021)-PyTorch%20Tabular:%20A%20Framework%20for%20Deep%20Learning%20with%20Tabular%20Data-informational?style=flat&color=2bbc8a"/>
   
 </a>
 </p>
