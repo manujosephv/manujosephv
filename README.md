@@ -26,18 +26,24 @@ Manu Joseph is self-made data scientist with 10+ years of cross-functional exper
 <a href="https://github.com/manujosephv/pytorch_tabular">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manujosephv&repo=pytorch_tabular&theme=vue" />
 </a>
-<a href="https://github.com/manujosephv/deeprenewalprocess">
+<!-- <a href="https://github.com/manujosephv/deeprenewalprocess">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manujosephv&repo=deeprenewalprocess&theme=vue" />
-</a>
+</a> -->
 </p>
 
 ## 📰 Publications
 
 <p align="center">
-<a href="https://arxiv.org/ftp/arxiv/papers/2104/2104.13638.pdf">
+<a href="https://arxiv.org/abs/2104.13638">
   <img height="30em" src="https://img.shields.io/badge/arxiv(2021)-PyTorch%20Tabular:%20A%20Framework%20for%20Deep%20Learning%20with%20Tabular%20Data-informational?style=flat&color=2bbc8a"/>
-  
 </a>
+<a href="https://arxiv.org/abs/2207.08548">
+  <img height="30em" src="https://img.shields.io/badge/arxiv(2021)-GATE:%20Gated%20Additive%20Tree%20Ensemble%20for%20Tabular%20Classification%20and%20Regression-informational?style=flat&color=2bbc8a"/>
+</a>
+<a href="https://arxiv.org/abs/2208.08388">
+  <img height="30em" src="https://img.shields.io/badge/arxiv(2021)-LAMA-Net:%20Unsupervised%20Domain%20Adaptation%20via%20Latent%20Alignment%20and%20Manifold%20Learning%20for%20RUL%20Prediction-informational?style=flat&color=2bbc8a"/>
+</a>
+
 </p>
 
 
