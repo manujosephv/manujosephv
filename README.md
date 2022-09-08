@@ -41,7 +41,7 @@ Manu Joseph is self-made data scientist with 10+ years of cross-functional exper
   <img height="30em" src="https://img.shields.io/badge/arxiv(2021)-GATE:%20Gated%20Additive%20Tree%20Ensemble%20for%20Tabular%20Classification%20and%20Regression-informational?style=flat&color=2bbc8a"/>
 </a>
 <a href="https://arxiv.org/abs/2208.08388">
-  <img height="30em" src="https://img.shields.io/badge/arxiv(2021)-LAMA-Net:%20Unsupervised%20Domain%20Adaptation%20via%20Latent%20Alignment%20and%20Manifold%20Learning%20for%20RUL%20Prediction-informational?style=flat&color=2bbc8a"/>
+  <img height="30em" src="https://img.shields.io/badge/arxiv(2021)-LAMA Net:%20Unsupervised%20Domain%20Adaptation%20via%20Latent%20Alignment%20and%20Manifold%20Learning%20for%20RUL%20Prediction-informational?style=flat&color=2bbc8a"/>
 </a>
 
 </p>
