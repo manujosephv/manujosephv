@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Manu%20Joseph&fontSize=90&animation=fadeIn&desc=Head%20of%20Applied%20Research%20|%20Creator%20of%20PyTorch%20Tabular%20|%20Speaker%20|%20Blogger&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Manu%20Joseph&fontSize=90&animation=fadeIn&desc=Applied%20Research%20|%20Creator%20of%20PyTorch%20Tabular%20|%20Speaker%20|%20Blogger&descAlignY=70)
 ## 👨🏻‍💻 About Me:
-Manu Joseph is self-made data scientist with 10+ years of cross-functional experience spanning across Analytics, Software Engineering, and Supply Chain consulting. Currently he heads Applied Research at Thoucentric where he brings cutting edge AI technology from research to various applications in the industry. He has extensive experience working with many Fortune 500 companies is enabling digital and AI transformations in their processes, specifically in Machine Learning based Demand Forecasting. He is also an active open-source contributor and developed and maintains an open-source library - PyTorch Tabular - which makes deep learning for tabular data easy and accessible. He is also a contributor to NLTK where he enhanced the Language Model section of the library introducing many statistical language models. His primary research interests are time series, deep learning, and natural language processing. He is a blogger, writing in his own technical blog, and a speaker, at various AI/ML conferences.
+Manu Joseph is self-made data scientist with 10+ years of cross-functional experience spanning across Analytics, Software Engineering, and Supply Chain consulting. He is a Staff Data Scientist with Walmart Global Tech and previously he was heading Applied Research at Thoucentric where he brings cutting edge AI technology from research to various applications in the industry. He has extensive experience working with many Fortune 500 companies is enabling digital and AI transformations in their processes, specifically in Machine Learning based Demand Forecasting. He is also an active open-source contributor and developed and maintains an open-source library - PyTorch Tabular - which makes deep learning for tabular data easy and accessible. He is also a contributor to NLTK where he enhanced the Language Model section of the library introducing many statistical language models. His primary research interests are time series, deep learning, and natural language processing. He is a blogger, writing in his own technical blog, and a speaker, at various AI/ML conferences.
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 ## 💻 Tech Stack:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ## 🚩 Major Repositories
@@ -43,7 +44,9 @@ Manu Joseph is self-made data scientist with 10+ years of cross-functional exper
 <a href="https://arxiv.org/abs/2208.08388">
   <img height="30em" src="https://img.shields.io/badge/arxiv(2021)-LAMA Net:%20Unsupervised%20Domain%20Adaptation%20via%20Latent%20Alignment%20and%20Manifold%20Learning%20for%20RUL%20Prediction-informational?style=flat&color=2bbc8a"/>
 </a>
-
+<a href="https://arxiv.org/abs/2210.08532">
+  <img height="30em" src="https://img.shields.io/badge/arxiv(2021)-AskYourDB:An%20end%20to%20end%20system%20for%20querying%20and%20visualizing%20relational%20databases%20using%20natural%20language-informational?style=flat&color=2bbc8a"/>
+</a>
 </p>
 
 
@@ -64,7 +67,7 @@ Manu Joseph is self-made data scientist with 10+ years of cross-functional exper
 </p>
 
 ## 🌐 Get in Touch:
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/manujosephv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manujosephv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/manujosephv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/manujosephv" height="30" width="40" /></a>
 <a href="https://kaggle.com/manujosephv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manujosephv" height="30" width="40" /></a>
