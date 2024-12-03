@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Manu%20Joseph&fontSize=90&animation=fadeIn&desc=Applied%20Research%20|%20Creator%20of%20PyTorch%20Tabular%20|%20Speaker%20|%20Blogger&descAlignY=70)
 ## 👨🏻‍💻 About Me:
-Manu Joseph is self-made data scientist with 10+ years of cross-functional experience. He is a Staff Data Scientist with Walmart Global Tech where he uses cutting edge AI technology at scale to help Walmart.com customers get the best experience. Previously he was heading Applied Research at Thoucentric where he brought AI research and customer applications closer together. 
+Manu Joseph is self-made data scientist with 15+ years of cross-functional experience. He is a Staff Data Scientist with Walmart Global Tech where he uses cutting edge AI technology at scale to help Walmart.com customers get the best experience. Previously he was heading Applied Research at Thoucentric where he brought AI research and customer applications closer together. 
 
-He has extensive experience working with many Fortune 500 companies is enabling digital and AI transformations in their processes, specifically in Machine Learning based Demand Forecasting. And he has distilled that knowledge into a best-selling book on using modern techniques for time series forecasting.
+He has extensive experience working with many Fortune 500 companies is enabling digital and AI transformations in their processes, specifically in Machine Learning based Demand Forecasting. And he has distilled that knowledge into a [best-selling book on using modern techniques for time series forecasting](https://g.co/kgs/qnULGLX).
 
 He is also an active open-source contributor and developed and maintains an open-source library - PyTorch Tabular (1000+ stars and 2000+ downloads per month) - which makes deep learning for tabular data easy and accessible. He is also a contributor to NLTK where he enhanced the Language Model section of the library introducing many statistical language models. 
 
