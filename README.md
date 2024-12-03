@@ -20,7 +20,7 @@ He has extensive experience working with many Fortune 500 companies is enabling 
 
 He is also an active open-source contributor and developed and maintains an open-source library - PyTorch Tabular (1000+ stars and 2000+ downloads per month) - which makes deep learning for tabular data easy and accessible. He is also a contributor to NLTK where he enhanced the Language Model section of the library introducing many statistical language models. 
 
-His primary research interests are time series, deep learning, and natural language processing. He is a blogger, writing in his own technical blog, and a speaker, at various AI/ML conferences.
+His primary research interests are time series, deep learning, and LLMs. He is a blogger, writing in his own technical blog, and a speaker, at various AI/ML conferences.
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
