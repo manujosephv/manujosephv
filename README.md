@@ -46,13 +46,14 @@ Beyond the data, he is **Manu J** — author of *The Artist* (2024), a criticall
 ## 🚩 Major Repositories
  
 <p align="center">
-<a href="https://github.com/manujosephv/pytorch_tabular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manujosephv&repo=pytorch_tabular&theme=vue" />
-</a>
-<a href="https://github.com/manujosephv/deeprenewalprocess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manujosephv&repo=deeprenewalprocess&theme=vue" />
-</a>
+  <a href="https://github.com/manujosephv/pytorch_tabular">
+    <img src="https://opengraph.githubassets.com/1/manujosephv/pytorch_tabular" width="400"/>
+  </a>
 </p>
+ 
+[![PyTorch Tabular](https://img.shields.io/badge/🔧%20PyTorch%20Tabular-Deep%20Learning%20for%20Tabular%20Data-2bbc8a?style=for-the-badge)](https://github.com/manujosephv/pytorch_tabular)
+[![Stars](https://img.shields.io/github/stars/manujosephv/pytorch_tabular?style=for-the-badge&logo=github&color=yellow)](https://github.com/manujosephv/pytorch_tabular)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/pytorch-tabular?style=for-the-badge&logo=pypi&color=blue)](https://pypi.org/project/pytorch-tabular/)
  
 ---
  
@@ -123,18 +124,33 @@ I write psychological fiction under the pen name **Manu J**.
  
 ---
  
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
  
 <p align="center">
-<a href="https://github.com/manujosephv">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=manujosephv&theme=vue&hide_border=false&include_all_commits=false&count_private=true" />
-</a>
+  <a href="https://github.com/manujosephv">
+    <img src="https://img.shields.io/github/followers/manujosephv?label=Followers&style=for-the-badge&logo=github&color=2bbc8a" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/manujosephv/pytorch_tabular">
+    <img src="https://img.shields.io/github/stars/manujosephv/pytorch_tabular?label=PyTorch%20Tabular%20Stars&style=for-the-badge&logo=github&color=yellow" alt="PyTorch Tabular Stars" />
+  </a>
+  <a href="https://pypi.org/project/pytorch-tabular/">
+    <img src="https://img.shields.io/pypi/dm/pytorch-tabular?label=Monthly%20PyPI%20Downloads&style=for-the-badge&logo=pypi&color=blue" alt="PyPI Downloads" />
+  </a>
 </p>
  
 <p align="center">
-<a href="https://github.com/manujosephv">
-  <img height="290em" src="https://github-profile-trophy.vercel.app/?username=manujosephv&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=2&column=3&title=Stars,Commits,Followers,Repositories,MultiLanguage,Issues" />
-</a>
+  <a href="https://github.com/manujosephv">
+    <img src="https://img.shields.io/badge/Repos-39%2B-informational?style=for-the-badge&logo=github&color=555" alt="Repos" />
+  </a>
+  <a href="https://www.semanticscholar.org/author/Manu-Joseph/2086742581">
+    <img src="https://img.shields.io/badge/Papers-6-informational?style=for-the-badge&color=2bbc8a" alt="Papers" />
+  </a>
+  <a href="https://www.semanticscholar.org/author/Manu-Joseph/2086742581">
+    <img src="https://img.shields.io/badge/Citations-98-informational?style=for-the-badge&color=2bbc8a" alt="Citations" />
+  </a>
+  <a href="https://www.semanticscholar.org/author/Manu-Joseph/2086742581">
+    <img src="https://img.shields.io/badge/h--index-4-informational?style=for-the-badge&color=2bbc8a" alt="h-index" />
+  </a>
 </p>
  
 ---
